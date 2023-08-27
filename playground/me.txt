@@ -1,0 +1,5 @@
+{{#user}}
+Name: Daksh Gupta
+Skills: HTML, CSS, react.js,node.js,python
+Email: daksh30122002@gmail.com
+{{/user}}
